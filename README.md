@@ -23,7 +23,7 @@ Instructions
 5. Please Install/Enable the theme: Bartik 9.4.6 (default theme)
 
 6. The products module CRUD facility is availebe in the Admin/Configuration/ContentAuthoring/Product Module Settings
-7. Ebale/Display the Test Block module to show left side bar 2
+7. Ebale/Display the Test Block module to show right side bar 2
 8. Change the front page default url is Adminstration/Configuration/Basic Settings/Front Page to the following
 		/products/display
 
