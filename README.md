@@ -27,5 +27,5 @@ Instructions
 8. Change the front page default url is Adminstration/Configuration/Basic Settings/Front Page to the following
 		/products/display
 
-9. Thats All. Now go to the home page of the module.
-10. If any of the module/products information not displayed, please clear the Cache & Try..
+9. Thats All. Now go to the home page of the site after added the products.
+10. If any of the module/products information not displayed, then please clear the Cache & Try..
